@@ -16,8 +16,6 @@ titanic.csv	The Titanic dataset used for analysis.
 LICENSE	MIT License detailing usage permissions. 
 GitHub
 🛠️ Getting Started
-📥 Clone the Repository
-git clone https://github.com/Manoj4886/Alfido-Tech-Task3.git
 cd Alfido-Tech-Task3
 
 📦 Install Dependencies
